@@ -16,9 +16,13 @@ This project demonstrates Python basics, object-oriented programming, data struc
 
 ## ✨ Features
 Manage Transactions – Store, track, and manipulate amounts, dates, and descriptions.
+
 Automate Logic – Validate, categorize, and calculate transactions using conditional statements and loops.
+
 Reusable Functions & Classes – Encapsulate operations and model real-world entities like Transaction.
+
 Organize & Access Data – Efficiently manage transactions with lists, dictionaries, and sets.
+
 Persist & Integrate Data – Save transactions to SQLite and connect to external APIs as needed.
 
 ---
