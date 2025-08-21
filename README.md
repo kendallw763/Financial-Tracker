@@ -1,4 +1,4 @@
-# 🐍 Python Foundations
+# Financial Tracker
 
 A simple project to study and practice the **core foundations of Python**.  
 This project demonstrates Python basics, object-oriented programming, data structures, and common backend features.
