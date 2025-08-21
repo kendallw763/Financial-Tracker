@@ -14,26 +14,12 @@ This project demonstrates Python basics, object-oriented programming, data struc
 
 ---
 
-
 ## ✨ Features
-Manage Transactions & Data – Store, track, and manipulate numeric and textual data such as amounts, dates, and descriptions.
-
-Automate Logic & Decisions – Apply conditions and loops to validate transactions, categorize entries, and calculate totals automatically.
-
-Reusable Functions & Methods – Encapsulate common operations like adding, updating, or deleting transactions to reduce repetition and errors.
-
-Organize Collections of Data – Use lists, dictionaries, and sets to efficiently group, search, and retrieve transactions.
-
-Structure the Application with Classes – Model real-world entities like Transaction with properties and behaviors, enabling scalable and maintainable code.
-
-Define Fixed Choices & Abstract Behavior – Enforce categories, transaction types, and shared rules across all transactions to maintain consistency.
-
-Persist Data with File/Database I/O – Read and write transaction records to SQLite, ensuring data is stored and retrievable across sessions.
-
-Handle Multiple Operations Smoothly – Use threads or asynchronous processing to manage simultaneous requests without blocking the application.
-
-Integrate External Data Sources – Fetch or send financial data through APIs for enhanced functionality, such as currency rates or transaction verification.
-
+Manage Transactions – Store, track, and manipulate amounts, dates, and descriptions.
+Automate Logic – Validate, categorize, and calculate transactions using conditional statements and loops.
+Reusable Functions & Classes – Encapsulate operations and model real-world entities like Transaction.
+Organize & Access Data – Efficiently manage transactions with lists, dictionaries, and sets.
+Persist & Integrate Data – Save transactions to SQLite and connect to external APIs as needed.
 
 ---
 
