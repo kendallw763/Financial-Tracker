@@ -16,11 +16,9 @@ Persist & Integrate Data – Save transactions to SQLite and connect to external
 ## 🛠️ Tech Stack
 Language: Python 3
 
-Frameworks: FLASK, FlaskAlchemy, SQLAlchem
+Frameworks: FLASK, FlaskAlchemy, SQLAlchemy
 
 Database: SQLlite
-
-Build Tool: Maven 
 
 IDE: IntelliJ IDEA
 
