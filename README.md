@@ -1,20 +1,7 @@
-# Financial Tracker
+## 📌 Scablible Backend Financial Tracker
 
-A simple project to study and practice the **core foundations of Python**.  
-This project demonstrates Python basics, object-oriented programming, data structures, and common backend features.
+## 🚀 Features
 
----
-
-## 🛠 Technologies
-- **Language**: Python 3
-- **FRAMEWORK**: FLASK, FlaskAlchemy, SQLAlchemy
-- **DATABASE**: SQLlite
-- **TESTING**: Postaman (API endpoints) 
- 
-
----
-
-## ✨ Features
 Manage Transactions – Store, track, and manipulate amounts, dates, and descriptions.
 
 Automate Logic – Validate, categorize, and calculate transactions using conditional statements and loops.
@@ -25,8 +12,19 @@ Organize & Access Data – Efficiently manage transactions with lists, dictionar
 
 Persist & Integrate Data – Save transactions to SQLite and connect to external APIs as needed.
 
----
 
+## 🛠️ Tech Stack
+Language: Python 3
+
+Frameworks: FLASK, FlaskAlchemy, SQLAlchem
+
+Database: SQLlite
+
+Build Tool: Maven 
+
+IDE: IntelliJ IDEA
+
+Endpoint Testing: Postman
 
 ## 📷 Screenshots 
 
