@@ -18,6 +18,8 @@ Language: Python 3
 
 Frameworks: FLASK, FlaskAlchemy, SQLAlchemy
 
+Build Tool: pip 3
+
 Database: SQLlite
 
 IDE: IntelliJ IDEA
